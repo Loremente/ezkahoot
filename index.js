@@ -68,21 +68,7 @@ process.setMaxListeners(Number.POSITIVE_INFINITY)
 
 function ads() {
     console.clear()
-    console.log("=====================")
-    console.log("   Kahotosmasher")
-    console.log("   .-+*=    ==:    ")
-    console.log("  .+***=    =###*-  ")
-    console.log(" -****:    =#*=::-+ ")
-    console.log(".***+     -+:    .#=")
-    console.log("-**:.    .. :==--*#*")
-    console.log(":- -          ##**#+")
-    console.log(" :+    .-    .+= -*.")
-    console.log("      -#=      -**. ")
-    console.log("     +##:   .-*+:   ")
-    console.log("      .:-::-:.      ")
-    console.log("Best Kahoot Flooder")
-    console.log ("====================\n")
-}
+    console.log("   EZKAHOOT")
 ads()
 
 //QUESTIONS TO START FLOODING
